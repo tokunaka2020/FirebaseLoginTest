@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "666883138993",
+    "firebase_url": "https://fir-logintest-7b3a9.firebaseio.com",
+    "project_id": "fir-logintest-7b3a9",
+    "storage_bucket": "fir-logintest-7b3a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666883138993:android:48e25e2d9509ba5ad0c990",
+        "android_client_info": {
+          "package_name": "com.websarva.wings.android.firebaselogintest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666883138993-l1836rmss49c4dp4d5dc95fiodepqqp1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.websarva.wings.android.firebaselogintest",
+            "certificate_hash": "c6a5fab839f5d58064f7ef6c29444558e3c6b9d4"
+          }
+        },
+        {
+          "client_id": "666883138993-issp4je2nn1gp8anip25eihvdpdgj42o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Z4xF1FfU-HqEWH1Fb5nmedUh6vVEr78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666883138993-issp4je2nn1gp8anip25eihvdpdgj42o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

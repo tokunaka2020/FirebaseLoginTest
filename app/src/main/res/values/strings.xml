@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseLoginTest</string>
+    <string name="title_login">Googleログイン</string>
+    <string name="message_login">LogIn....</string>
+</resources>
